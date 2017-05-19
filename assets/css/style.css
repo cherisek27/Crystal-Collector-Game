@@ -3,8 +3,47 @@
 .container {
 	width: 1268px;
 	height: 1000px;
-	background: url("../images/disney.jpg");
-	text-align: center;
+	background: url("../images/pink_rice.png");
+	text-align: left;
 	font-size: 20px; 
 	font-weight: bold;
+} 
+
+.header { 
+	background: #0000FF;
+	width: 30%; 
+	color: #FFF; 
+	font-size: 40px;
+ } 
+
+ .instructions { 
+	background: #0000FF;
+	width: 30%;
+	color: #FFF;
+	font-size: 14px;
+  } 
+
+.randomNumber {
+	width: 20%; 
+	height: 10%;
+	background: #C0C0C0; 
+}  
+
+.row {
+	width: 20%; 
+	height: 10%;
+	background: #C0C0C0; 
+
+}
+
+.total {
+	width: 20%; 
+	height: 10%;
+	background: #C0C0C0;
+}
+
+.totalScore {
+	background: #C0C0C0; 
+	width: 20%;
+	height: 20%;
 }
