@@ -18,19 +18,19 @@ $(document).ready(function() {
     return {
       red: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/redcrystal.jpg"
+        imageUrl: "assets/images/red.png"
       },
       blue: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/bluecrystal.ipeg"
+        imageUrl: "assets/images/blue.png"
       },
       yellow: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/yellowcrystal.png"
+        imageUrl: "assets/images/yellow.png"
       },
       green: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/greencrystal.JPG"
+        imageUrl: "assets/images/green.png"
       }
     };
   }
