@@ -18,11 +18,11 @@ $(document).ready(function() {
     return {
       red: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/redcrystal.png"
+        imageUrl: "assets/images/redcrystal.jpg"
       },
       blue: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/bluecrystal.png"
+        imageUrl: "assets/images/bluecrystal.ipeg"
       },
       yellow: {
         points: Math.floor(Math.random() * 12) + 1,
@@ -30,7 +30,7 @@ $(document).ready(function() {
       },
       green: {
         points: Math.floor(Math.random() * 12) + 1,
-        imageUrl: "assets/images/greencrystal.png"
+        imageUrl: "assets/images/greencrystal.JPG"
       }
     };
   }
